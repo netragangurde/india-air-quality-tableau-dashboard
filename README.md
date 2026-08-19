@@ -19,9 +19,13 @@ The dashboard was designed to make it easier to identify variations in air quali
 - Exploratory Data Analysis
 - Data Analysis
 
-## 📊 Dashboard
+## 📊 Dashboard Preview
 
-The complete dashboard is available in main repo.
+![India Air Quality Tableau Dashboard](India_Air_Quality_Tableau_Dashboard_Preview.png)
+
+### Full Dashboard
+
+[View the complete Tableau Dashboard PDF](India%20Air%20Quality%20Dashboard.pdf)
 
 ## 🔍 Analysis Areas
 
