@@ -29,17 +29,26 @@ The dashboard was designed to make it easier to identify variations in air quali
 
 ## 🔍 Analysis Areas
 
-The dashboard explores:
+The dashboard explores multiple dimensions of air quality through:
 
-- Air Quality Index (AQI) patterns
-- Pollution levels across locations
-- Geographic variations in air quality
-- Trends and comparisons within the available data
+- Year-wise trends in average SO₂ and NO₂ levels
+- State-wise comparison of average SPM levels
+- State-wise comparison of average SO₂ levels
+- City and year-wise geographic distribution of SO₂ and NO₂
+- Area-wise comparison of NO₂ and SO₂ concentrations
+- Relationship between NO₂ and RSPM levels
 
 ## 💡 Key Insights
 
-Key findings from the analysis are presented through the visualizations in the Tableau dashboard.
+The dashboard highlights several patterns across the available air quality data:
 
+- Average NO₂ levels remain generally higher than SO₂ levels across much of the year-wise trend.
+- Air pollutant levels vary considerably across different states and geographic locations.
+- State-level visualizations reveal differences in average SPM and SO₂ concentrations.
+- The city-and-year map provides a geographic view of variations in SO₂ levels across India.
+- Area-wise analysis enables comparison of NO₂ and SO₂ concentrations across industrial, residential, and sensitive-area classifications.
+- The NO₂ vs. RSPM scatter plot provides a visual basis for examining the relationship between these two pollutants.
+  
 ## 📚 Skills Demonstrated
 
 - Data Visualization
@@ -51,5 +60,6 @@ Key findings from the analysis are presented through the visualizations in the T
 ## 📁 Repository Contents
 
 ```text
-India_Air_Quality_Tableau_Dashboard.pdf
+India Air Quality Dashboard.pdf
+India_Air_Quality_Tableau_Dashboard_Preview.png
 README.md
